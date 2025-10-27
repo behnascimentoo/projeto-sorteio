@@ -1,6 +1,6 @@
 # Sorteio de Amigos 🎉
 
-[**Acesse a aplicação aqui**](https://behnascimentoo.github.io/sorteio/)  
+[**Acesse a aplicação aqui**](https://behnascimentoo.github.io/projeto-sorteio/) 
 
 Uma aplicação simples e divertida para realizar **sorteios de amigos secretos**, ideal para festas, confraternizações ou apenas para brincar com os amigos!  
 
